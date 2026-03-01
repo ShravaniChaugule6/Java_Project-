@@ -1,2 +1,2 @@
 # Java_Project
-College Admission Portal
+College Admission Portal 
